@@ -1,0 +1,69 @@
+/* top banner style */
+body{
+    font-family: 'Poppins', sans-serif ;
+}
+.top-banner{
+    background: #264653;
+}
+.text-cbr-48{
+    font-size: 48px;
+    font-weight:600 ;
+
+}
+.pera-txt{
+    font-size: 16px;
+    font-weight: 300;
+    color: #E0E0E0;
+}
+.btn-perchase{
+    background-color:#E76F51;
+}
+
+
+
+
+/* feture section style */
+
+.bike-feure-1{
+    margin-top: 7%;
+    font-size: 48px ;
+    font-weight: 600;
+}
+.bike-feure-2{
+    font-size: 24px;
+    font-weight: 600;
+    color: #E76F51;
+    margin-bottom: 1%;
+}
+
+.f-bike-g{
+    mix-blend-mode: luminosity;
+}
+
+
+
+/* review section style  */
+
+.fas{
+    color: #f06311;
+    font-size: 24px;
+}
+.far{
+    color: #f06311;
+    font-size: 24px;
+}
+.p-blue{
+    color: #23A6F0;
+    font-weight: 600;
+}
+.c-footer{
+    color:black;
+   font-weight: 600;
+}
+.malta-color{
+    color: #E76F51;
+}
+.title{
+    font-size: 48px;
+    font-weight:600 ;
+}
